@@ -9,7 +9,7 @@ library(dada2); packageVersion("dada2")
 sessionInfo()
 
 ### SET THE PATH TO THE FASTQ FILES
-path <- "~/projects/def-lpenacas/CanineGut/Fastq_files/2_trimmed_fastq_files"
+path <- "~/Fastq_files/2_trimmed_fastq_files"
 ### SET THE NAME OF THE OUTPUT DIRECTORY
 outdir <- "output_dada2_taxonomy"
 
