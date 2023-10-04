@@ -1,0 +1,49 @@
+﻿,BehaviourGroupNumber,BehaviourGroup,Anxiety,Aggression,DietType,Social,Conspecific,Sex,Probiotics,Medicine,Age,BodyCondition,FleaDeworm
+Sample1,1,LowLow,Low,Low,Kibble,2,2,Male,2,2,4,3,None
+Sample10,4,HighHigh,High,High,Kibble,2,1,Female,1,2,5,3,Both
+Sample11,3,LowAnxHighAg,Low,High,Kibble,2,2,Male,2,2,6,3,Both 
+Sample12,4,HighHigh,High,High,Kibble,1,2,Male,2,2,3,5,Both
+Sample13,1,LowLow,Low,Low,Kibble,1,2,Male,1,2,4,5,Both
+Sample14,4,HighHigh,High,High,Kibble,1,1,Male,2,2,6,5,Both
+Sample15,4,HighHigh,High,High,Kibble mix,1,1,Female,2,2,4,7,None
+Sample16,4,HighHigh,High,High,Kibble,1,2,Male,2,2,6,5,Both
+Sample17,1,LowLow,Low,Low,Kibble,2,2,Male,2,2,4,5,Both
+Sample18,4,HighHigh,High,High,Kibble,1,2,Male,2,2,4,5,Both
+Sample19,1,LowLow,Low,Low,Kibble,1,2,Female,2,2,3,5,Both
+Sample2,4,HighHigh,High,High,Kibble,1,2,Female,2,2,2,3,None
+Sample20,4,HighHigh,High,High,Kibble,2,1,Male,2,2,7,5,Both
+Sample21,1,LowLow,Low,Low,Kibble,1,2,Male,2,2,2,5,Both
+Sample22,4,HighHigh,High,High,Kibble,2,2,Male,2,2,6,5,Both
+Sample23,3,LowAnxHighAg,Low,High,Kibble mix,1,1,Female,2,1,6,5,Both
+Sample24,1,LowLow,Low,Low,Kibble,2,2,Male,2,2,2.5,7,None
+Sample25,1,LowLow,Low,Low,Kibble mix,1,2,Female,2,2,5,5,Both
+Sample26,4,HighHigh,High,High,Kibble mix,2,1,Male,2,2,4,7,Both
+Sample27,4,HighHigh,High,High,Kibble mix,2,2,Male,2,2,4,3,None
+Sample28,1,LowLow,Low,Low,Kibble mix,1,1,Male,2,2,1.5,5,None
+Sample29,1,LowLow,Low,Low,Kibble mix,1,1,Female,2,2,7.5,5,Deworm only
+Sample3,1,LowLow,Low,Low,Kibble,1,2,Male,2,2,2,5,None
+Sample30,3,LowAnxHighAg,Low,High,Kibble mix,2,2,Female,2,2,2,5,None
+Sample31,2,HighAnxLowAg,High,Low,Kibble mix,2,2,Female,2,2,5,5,None
+Sample32,1,LowLow,Low,Low,Raw,1,2,Male,1,2,5,5,None
+Sample33,4,HighHigh,High,High,Raw,1,2,Male,2,2,3.5,5,Both
+Sample34,4,HighHigh,High,High,Kibble,2,1,Male,2,2,4,5,Flea only
+Sample35,1,LowLow,Low,Low,Kibble,1,1,Male,1,2,3,7,Flea only
+Sample36,4,HighHigh,High,High,Kibble,1,2,Male,2,2,5,3,Flea only
+Sample37,1,LowLow,Low,Low,Kibble,1,2,Male,2,2,2,5,Flea only
+Sample38,3,LowAnxHighAg,Low,High,Kibble,2,1,Female,2,2,4,5,Flea only
+Sample39,1,LowLow,Low,Low,Kibble,1,2,Female,2,2,5,7,Flea only
+Sample4,4,HighHigh,High,High,Kibble mix,2,1,Male,2,2,4,5,None
+Sample40,1,LowLow,Low,Low,Kibble mix,1,2,Male,2,2,4,5,Both
+Sample41,4,HighHigh,High,High,Kibble mix,1,2,Male,2,2,4,7,None
+Sample42,1,LowLow,Low,Low,Kibble mix,2,1,Female,2,2,3,5,None
+Sample43,4,HighHigh,High,High,Kibble mix,1,2,Male,2,1,2,5,Both
+Sample44,1,LowLow,Low,Low,Kibble mix,1,2,Male,2,2,2,5,Both
+Sample45,4,HighHigh,High,High,Kibble mix,1,1,Male,1,1,4,5,Flea only
+Sample46,1,LowLow,Low,Low,Kibble mix,1,2,Female,2,2,2,3,Both
+Sample47,4,HighHigh,High,High,Kibble,2,1,Female,2,1,6.5,7,Both
+Sample48,2,HighAnxLowAg,High,Low,Kibble,1,2,Female,2,1,2,5,Both
+Sample5,1,LowLow,Low,Low,Kibble,1,2,Male,2,2,2,5,None
+Sample6,4,HighHigh,High,High,Kibble,2,2,Female,2,2,4,5,None
+Sample7,2,HighAnxLowAg,High,Low,Kibble,2,2,Female,2,2,2,5,None
+Sample8,3,LowAnxHighAg,Low,High,Kibble,1,2,Female,2,2,5,5,None
+Sample9,1,LowLow,Low,Low,Kibble,2,2,Male,2,2,6,1,Both
