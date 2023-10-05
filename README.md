@@ -1,5 +1,5 @@
 # CanineGutMicrobiomeStudy
-Companion scripts for the manuscript "Gut microbiome composition is related to anxiety and aggression score in companion dogs." by Sarita Pellowe et al. (2023)
+Companion scripts for the manuscript "Gut microbiome composition is related to anxiety and aggression score in companion dogs." by Sarita Pellowe et al. (2023) (under review)
 
 To run the Dada2_script.R you need to download the fastq files available at the [NCBI Sequence Read Archive (SRA)](https://www.ncbi.nlm.nih.gov/sra) under BioProject PRJNA1020865.
 
