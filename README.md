@@ -1,5 +1,5 @@
 # CanineGutMicrobiomeStudy
-Companion scripts for the manuscript [Pellowe, S.D., Zhang, A., Bignell, D.R.D. et al. Gut microbiota composition is related to anxiety and aggression scores in companion dogs. Sci Rep 15, 24336 (2025)](https://doi.org/10.21203/rs.3.rs-3424940/v1)
+Companion scripts for the manuscript [Pellowe, S.D., Zhang, A., Bignell, D.R.D. et al. Gut microbiota composition is related to anxiety and aggression scores in companion dogs. Sci Rep 15, 24336 (2025)](https://doi.org/10.1038/s41598-025-06178-4)
 
 The first step to reproduce our analysis is to run Dada2. To do this, before running the Dada2_script.R one needs to download the fastq files available at the [NCBI Sequence Read Archive (SRA)](https://www.ncbi.nlm.nih.gov/sra) under BioProject PRJNA1020865. Note that we performed quality trimmering/filtering of the reads before using Dada2.
 
